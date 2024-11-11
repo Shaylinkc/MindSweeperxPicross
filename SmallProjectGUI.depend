@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1710975681 source:c:\users\001040671\downloads\smallprojectgui\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<GL/glut.h>
+	<SOIL/SOIL.h>
+
+1710961191 c:\minga-lib\freeglut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1710961322 c:\minga-lib\soil\include\soil\soil.h
+
+1711052596 source:d:\smallprojectgui\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<GL/glut.h>
+	<SOIL/SOIL.h>
+
+1711384216 source:c:\users\shayl\onedrive\desktop\smallprojectgui\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<GL/glut.h>
+	<SOIL/SOIL.h>
+
+1714000740 source:c:\users\shayl\downloads\smallprojectgui (2)\smallprojectgui\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<GL/glut.h>
+	<SOIL/SOIL.h>
+
+1714168895 source:c:\users\shayl\downloads\lab06\texture.cpp
+	"main.h"
+	<SOIL/SOIL.h>
+
+1714169244 c:\users\shayl\downloads\lab06\main.h
+	<GL/glut.h>
+
